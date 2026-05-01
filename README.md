@@ -1,5 +1,5 @@
-# ⚡ Focalización de Programas de Eficiencia Energética mediante Machine Learning
-### Predicción, Detección de Anomalías y Segmentación de Hogares sobre Datos de Smart Meters
+# ⚡ Smart Energy Analytics: Un Modelo de Decisión para Programas de Eficiencia Energética mediante Machine Learning
+### Predicción, Detección de Anomalías y Segmentación de Hogares sobre Datos de Smart Meters, Segmentación y Detección de Anomalías en Consumo Energético Residencial para Programas de Eficiencia Energética
 
 ---
 
