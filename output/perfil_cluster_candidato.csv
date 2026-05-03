@@ -1,0 +1,5 @@
+cluster_candidato,consumo_total,consumo_medio,consumo_std,consumo_max,consumo_invierno,consumo_verano,consumo_finde,consumo_semana,ratio_invierno_verano_clip,ratio_finde_semana_clip,coef_variacion_clip,intensidad_pico_clip,peso_invierno_clip,peso_verano_clip,consumo_estacionalidad_clip,dias_registrados
+0,2456.13,3.86,1.45,11.46,4.19,3.53,3.97,3.82,1.23,1.04,0.39,3.06,1.08,0.91,0.25,637.53
+1,11343.15,18.11,6.18,44.67,20.83,14.94,18.64,17.89,1.43,1.06,0.34,2.52,1.15,0.83,0.33,627.66
+2,10335.04,16.06,10.65,56.67,24.76,7.75,16.36,15.94,3.24,1.04,0.68,3.8,1.52,0.51,1.02,644.21
+3,5394.12,8.47,2.63,20.63,9.3,7.59,8.86,8.31,1.26,1.07,0.32,2.48,1.1,0.89,0.23,638.79

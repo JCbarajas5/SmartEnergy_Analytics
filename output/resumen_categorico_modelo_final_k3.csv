@@ -1,0 +1,7 @@
+variable_categorica,cluster_modelo_final,segmento,categoria_dominante,porcentaje_dominante
+stdorToU,0,Bajo consumo,Std,78.64
+stdorToU,1,Alto consumo / mayor dispersión,Std,82.54
+stdorToU,2,Consumo medio,Std,81.28
+Acorn_grouped,0,Bajo consumo,Adversity,37.94
+Acorn_grouped,1,Alto consumo / mayor dispersión,Affluent,70.63
+Acorn_grouped,2,Consumo medio,Affluent,43.5

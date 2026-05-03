@@ -1,0 +1,2 @@
+modelo,K,componentes_pca,varianza_explicada_pca,inertia,Silhouette,Davies_Bouldin,Calinski_Harabasz
+K-Means + PCA,3,3,0.9517,20735.51,0.4108,0.957,3956.21
