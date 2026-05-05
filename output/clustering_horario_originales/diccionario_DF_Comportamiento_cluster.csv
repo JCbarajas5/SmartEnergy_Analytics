@@ -1,0 +1,12 @@
+variable,familia,descripcion,tipo_dato,nulos,pct_nulos,min,mediana,max
+log_consumo_mediana,magnitud,Nivel típico de consumo con transformación log1p para reducir efecto de valores extremos.,float64,0,0.0,0.0,2.1882398912091854,4.592469877409859
+intensidad_pico_diario_clip,variabilidad,Intensidad del día pico frente al comportamiento típico.,float64,0,0.0,1.1369078594266153,2.431490311567658,8.870065343963248
+ratio_invierno_verano_clip,estacionalidad,Sensibilidad relativa invierno versus verano.,float64,9,0.16,0.0002381679751374276,1.2766721013788893,5.376570817386024
+ratio_finde_semana_clip,estacionalidad,Diferencia relativa entre fin de semana y días laborales.,float64,0,0.0,0.12423717676896581,1.0418913719271519,1.4832998796194805
+share_madrugada,horario,Proporción del consumo en madrugada.,float64,0,0.0,0.0,0.14030742304830895,0.8516579977908474
+share_manana,horario,Proporción del consumo en mañana.,float64,0,0.0,0.03588132424936442,0.23562809567696033,0.8958591709812159
+share_tarde,horario,Proporción del consumo en tarde.,float64,0,0.0,0.02842489484935919,0.2704558046862789,0.5656490721943258
+share_noche,horario,Proporción del consumo en noche.,float64,0,0.0,0.0025430089841290333,0.3373943361726549,0.751595147234673
+peak_to_avg_period_clip,horario,Concentración del pico horario frente al promedio horario.,float64,0,0.0,1.019174863949465,1.8058125178732882,4.778322261070088
+periodo_pico_sin,horario_ciclico,Componente seno del horario pico.,float64,0,0.0,-1.0,-0.8660254037844386,1.0
+periodo_pico_cos,horario_ciclico,Componente coseno del horario pico.,float64,0,0.0,-1.0,0.2588190451025203,1.0

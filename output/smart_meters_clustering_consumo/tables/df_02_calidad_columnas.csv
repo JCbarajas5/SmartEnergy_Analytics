@@ -1,0 +1,16 @@
+variable,tipo_dato,nulos,pct_nulos,valores_unicos,uso_preliminar
+LCLid,object,0,0.0,5384,identificador_o_texto
+consumo_total,float64,0,0.0,5384,candidata_modelo
+consumo_medio,float64,0,0.0,5384,candidata_modelo
+consumo_std,float64,0,0.0,5384,candidata_modelo
+consumo_max,float64,0,0.0,5324,candidata_modelo
+consumo_invierno,float64,0,0.0,5383,candidata_modelo
+consumo_verano,float64,0,0.0,5382,candidata_modelo
+consumo_finde,float64,0,0.0,5384,candidata_modelo
+consumo_semana,float64,0,0.0,5384,candidata_modelo
+ratio_invierno_verano,float64,0,0.0,5384,candidata_modelo
+dias_registrados,int64,0,0.0,401,candidata_modelo
+stdorToU,object,0,0.0,2,interpretacion_negocio
+Acorn_grouped,object,0,0.0,5,interpretacion_negocio
+tarifa_enc,int64,0,0.0,2,candidata_modelo
+acorn_enc,int64,0,0.0,5,candidata_modelo

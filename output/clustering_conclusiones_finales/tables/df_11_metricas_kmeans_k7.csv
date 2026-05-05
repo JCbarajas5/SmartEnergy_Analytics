@@ -1,0 +1,2 @@
+modelo,configuracion,n_clusters,ruido_pct,cluster_mayor_pct_sin_ruido,cluster_menor_pct_sin_ruido,Silhouette,Davies_Bouldin,Calinski_Harabasz,Inertia
+KMeans,K=7,7,0.0,19.075037147102524,9.769687964338782,0.573388279562712,0.9313933656025485,2362.266431954821,2736.0077747389696
