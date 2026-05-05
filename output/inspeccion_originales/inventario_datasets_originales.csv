@@ -1,0 +1,8 @@
+tipo,nombre,existe,tamano_mb,num_archivos,ruta
+archivo,daily_dataset.csv,True,335.5,1,/Users/malgeak/Documents/Anahuac/Machine Learning/Proyecto Final/github/SmartEnergy_Analytics/data/original/kagglehub/datasets/jeanmidev/smart-meters-in-london/versions/21/daily_dataset.csv
+archivo,informations_households.csv,True,0.22,1,/Users/malgeak/Documents/Anahuac/Machine Learning/Proyecto Final/github/SmartEnergy_Analytics/data/original/kagglehub/datasets/jeanmidev/smart-meters-in-london/versions/21/informations_households.csv
+archivo,weather_daily_darksky.csv,True,0.33,1,/Users/malgeak/Documents/Anahuac/Machine Learning/Proyecto Final/github/SmartEnergy_Analytics/data/original/kagglehub/datasets/jeanmidev/smart-meters-in-london/versions/21/weather_daily_darksky.csv
+archivo,acorn_details.csv,True,0.12,1,/Users/malgeak/Documents/Anahuac/Machine Learning/Proyecto Final/github/SmartEnergy_Analytics/data/original/kagglehub/datasets/jeanmidev/smart-meters-in-london/versions/21/acorn_details.csv
+carpeta,daily_blocks,True,357.13,112,/Users/malgeak/Documents/Anahuac/Machine Learning/Proyecto Final/github/SmartEnergy_Analytics/data/original/kagglehub/datasets/jeanmidev/smart-meters-in-london/versions/21/daily_dataset/daily_dataset
+carpeta,hhblock_blocks,True,1593.84,112,/Users/malgeak/Documents/Anahuac/Machine Learning/Proyecto Final/github/SmartEnergy_Analytics/data/original/kagglehub/datasets/jeanmidev/smart-meters-in-london/versions/21/hhblock_dataset/hhblock_dataset
+carpeta,halfhourly_blocks,True,7501.3,112,/Users/malgeak/Documents/Anahuac/Machine Learning/Proyecto Final/github/SmartEnergy_Analytics/data/original/kagglehub/datasets/jeanmidev/smart-meters-in-london/versions/21/halfhourly_dataset/halfhourly_dataset

@@ -1,0 +1,8 @@
+cluster_kmeans_k7,hogares,pct_hogares,cluster_consumo_dominante,cluster_consumo_dominante_pct,horario_consumo_dominante,horario_consumo_dominante_pct,semanal_dominante,semanal_dominante_pct,tipo_consumo_dominante,tipo_consumo_dominante_pct,Acorn_grouped_dominante,Acorn_grouped_dominante_pct,stdorToU_dominante,stdorToU_dominante_pct
+0,737,13.688707280832096,1,63.77204884667571,consumo_tarde_estable,100.0,consumo_fin_semana_estable,100.0,picos_bajos_variabilidad_baja,100.0,Affluent,41.7910447761194,Std,79.6472184531886
+1,1027,19.075037147102524,0,51.606621226874395,consumo_noche_variable,100.0,consumo_fin_semana_variable,100.0,picos_bajos_variabilidad_baja,97.6630963972736,Affluent,42.16163583252191,Std,79.8442064264849
+2,877,16.289004457652304,1,67.7309007981756,consumo_noche_variable,99.8859749144812,consumo_fin_semana_estable,100.0,picos_bajos_variabilidad_baja,100.0,Affluent,45.61003420752566,Std,78.44925883694413
+3,815,15.13744427934621,0,100.0,consumo_noche_variable,100.0,consumo_fin_semana_estable,100.0,picos_bajos_variabilidad_baja,96.93251533742331,Affluent,39.75460122699386,Std,80.98159509202453
+4,593,11.014115898959881,0,100.0,consumo_tarde_estable,100.0,consumo_fin_semana_estable,100.0,picos_bajos_variabilidad_baja,100.0,Adversity,35.07588532883643,Std,75.88532883642496
+5,809,15.026002971768202,1,42.64524103831891,consumo_tarde_estable,85.7849196538937,consumo_fin_semana_estable,89.12237330037082,picos_moderados_variabilidad_media,99.75278121137207,Affluent,39.80222496909765,Std,83.68355995055624
+6,526,9.769687964338782,0,63.11787072243346,consumo_tarde_estable,99.42965779467681,consumo_fin_semana_variable,100.0,picos_bajos_variabilidad_baja,87.83269961977186,Adversity,41.44486692015209,Std,77.3764258555133

@@ -1,0 +1,13 @@
+variable,categoria,hogares,pct_hogares
+cluster_consumo,0,2519,46.786775631500745
+cluster_consumo,1,1851,34.37964338781575
+cluster_consumo,2,1014,18.833580980683507
+horario_consumo,consumo_noche_variable,2765,51.355869242199105
+horario_consumo,consumo_tarde_estable,2547,47.306835066864785
+horario_consumo,consumo_madrugada_variable,72,1.337295690936107
+semanal,consumo_fin_semana_estable,3743,69.52080237741455
+semanal,consumo_fin_semana_variable,1639,30.442050520059432
+semanal,consumo_entre_semana_variable,2,0.03714710252600297
+tipo_consumo,picos_bajos_variabilidad_baja,4462,82.87518573551263
+tipo_consumo,picos_moderados_variabilidad_media,920,17.087667161961367
+tipo_consumo,picos_altos_variabilidad_alta,2,0.03714710252600297

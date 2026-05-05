@@ -1,0 +1,6 @@
+metrica,valor
+casas_cluster_consumo,5384
+casas_comportamiento,5560
+casas_merge_final,5384
+casas_sin_match_comportamiento,0
+clusters_consumo_disponibles,"[0, 1, 2]"

@@ -1,0 +1,2 @@
+modelo_seleccionado,K,criterio_principal,razon,modelo,configuracion,n_clusters,ruido_pct,cluster_mayor_pct_sin_ruido,cluster_menor_pct_sin_ruido,Silhouette,Davies_Bouldin,Calinski_Harabasz,Inertia,componentes_pca
+KMeans con PCA,3,"equilibrio entre desempeno, interpretabilidad y utilidad de negocio",K=3 evita una segmentacion excesivamente concentrada y permite construir perfiles accionables de hogares.,KMeans_PCA,K=3,3,0.0,46.786775631500745,18.833580980683507,0.337545236056098,1.0388531384974582,4119.675467291691,18366.8599051168,3

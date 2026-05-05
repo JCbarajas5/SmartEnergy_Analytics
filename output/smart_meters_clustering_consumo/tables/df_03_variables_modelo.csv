@@ -1,0 +1,10 @@
+variable,familia,tipo_dato,nulos,pct_nulos,uso
+consumo_medio,magnitud,float64,0,0.0,entrada_candidata_clustering
+consumo_std,variabilidad,float64,0,0.0,entrada_candidata_clustering
+consumo_max,picos,float64,0,0.0,entrada_candidata_clustering
+consumo_invierno,estacionalidad,float64,0,0.0,entrada_candidata_clustering
+consumo_verano,estacionalidad,float64,0,0.0,entrada_candidata_clustering
+consumo_finde,patron_semanal,float64,0,0.0,entrada_candidata_clustering
+consumo_semana,patron_semanal,float64,0,0.0,entrada_candidata_clustering
+ratio_invierno_verano,estacionalidad_relativa,float64,0,0.0,entrada_candidata_clustering
+dias_registrados,cobertura,int64,0,0.0,entrada_candidata_clustering

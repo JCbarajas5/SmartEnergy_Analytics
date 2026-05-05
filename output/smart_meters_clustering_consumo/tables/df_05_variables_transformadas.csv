@@ -1,0 +1,10 @@
+variable_modelo,origen,transformacion,nulos_post_tratamiento
+log_consumo_medio,consumo_medio,log1p,0
+log_consumo_std,consumo_std,log1p,0
+log_consumo_max,consumo_max,log1p,0
+log_consumo_invierno,consumo_invierno,log1p,0
+log_consumo_verano,consumo_verano,log1p,0
+log_consumo_finde,consumo_finde,log1p,0
+log_consumo_semana,consumo_semana,log1p,0
+ratio_invierno_verano_clip,ratio_invierno_verano_clip,clip_p99_o_directa,0
+dias_registrados,dias_registrados,clip_p99_o_directa,0

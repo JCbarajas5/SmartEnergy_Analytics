@@ -1,0 +1,4 @@
+dimension,modelo_seleccionado,K_seleccionado,criterio,justificacion
+horario,KMeans,3,Interpretabilidad del horario dominante de consumo,K=3 permite distinguir perfiles horarios sin sobrefragmentar hogares.
+semanal,KMeans,3,Balance entre patrón semanal y estabilidad de consumo,K=2 concentra demasiados hogares en un solo grupo; K=3 genera segmentos más útiles.
+tipo_consumo,KMeans,3,Separación accionable de intensidad y concentración de picos,K=3 conserva interpretabilidad y evita clusters demasiado pequeños frente a K mayores.
